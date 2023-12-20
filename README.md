@@ -6,6 +6,7 @@ Group: IT2-2105
 Project theme: Pharmacy management system
 
 In the project directory, you can run:
+
 #npm install 
 
 
